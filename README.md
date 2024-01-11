@@ -7,7 +7,7 @@
 ```
 
 ## Bug Issue ##
-1.browser open failed sometimes
+***1.browser open failed sometimes***
 
 Click following path and run, let Windows system trust the application Manually.
 C:\Users\{name}\AppData\Roaming\teamcool\TeamBrowser\Chrome-bin\team_browser.exe
